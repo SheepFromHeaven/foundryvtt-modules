@@ -36,7 +36,7 @@
         "requires": []
     },
     "url": "https://github.com/SheepFromHeaven/foundryvtt-modules",
-	"bugs": "https://github.com/SheepFromHeaven/foundryvtt-modules/issues",
-	"manifest": "https://raw.githubusercontent.com/SheepFromHeaven/foundryvtt-modules/main/sourcebooks/module.json",
+    "bugs": "https://github.com/SheepFromHeaven/foundryvtt-modules/issues",
+    "manifest": "https://raw.githubusercontent.com/SheepFromHeaven/foundryvtt-modules/main/sourcebooks/module.json",
     "download": "https://github.com/SheepFromHeaven/foundryvtt-modules/archive/refs/heads/main.zip"
 }
