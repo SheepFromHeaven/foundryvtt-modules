@@ -1,0 +1,38 @@
+{
+    "id": "sfh-sourcebooks",
+    "title": "5eSourcebooks",
+    "description": "Compendiums containing the DND 5e sourcebooks",
+    "authors": [
+        {
+            "name": "SheepFromHeavehn"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "packs": [
+        {
+            "name": "PHB",
+            "label": "PHB Items",
+            "path": "packs/phb.db",
+            "type": "Item",
+            "module": "5eSourcebooks",
+            "system": "dnd5e"
+        }
+    ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "2.0.1",
+                    "compatible": "2.2.1"
+                }
+            }
+        ],
+        "requires": []
+    }
+}
