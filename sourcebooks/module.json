@@ -15,8 +15,24 @@
     "packs": [
         {
             "name": "PHB",
-            "label": "PHB Items",
+            "label": "Player's Handbook",
             "path": "packs/phb.db",
+            "type": "Item",
+            "module": "5eSourcebooks",
+            "system": "dnd5e"
+        },
+        {
+            "name": "XGtE",
+            "label": "Xanathar's Guide To Everything",
+            "path": "packs/xgte.db",
+            "type": "Item",
+            "module": "5eSourcebooks",
+            "system": "dnd5e"
+        },
+        {
+            "name": "TCoE",
+            "label": "Tasha's Couldron of Everything",
+            "path": "packs/tcoe.db",
             "type": "Item",
             "module": "5eSourcebooks",
             "system": "dnd5e"
